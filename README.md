@@ -1,10 +1,27 @@
-**PPSPOTIFY**
+#
+**_PPSpotify_**
+#
 
-A _**Comfy**_ spotify android client
-Active releases (because i use it too)
-Dont have to worry about your data being stolen (patched with revancedmanager!)
-No root.
+#
+**LATEST VERSION: 1.0**
+#
 
-patched with revancedmanager
-with some custom options
-(theme)
+#
+**A _**Comfy**_ spotify android client**
+#
+
+##
+**MY PROMISES:**
+**Active releases (because i use it too)**
+
+**Dont have to worry about your data being stolen (patched with revancedmanager!)**
+
+**No root.**
+##
+
+##
+**patched with revancedmanager**
+**with some custom options**
+**(theme)**
+##
+**
