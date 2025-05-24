@@ -32,7 +32,7 @@ Some of the features PPSpotify provides are:
 
 ## 🔽 Download
 
-You can download the most recent version of PPSpotify at [GitHub releases]().  
+You can download the most recent version of PPSpotify at [GitHub releases](https://github.com/SuperAviation001/ppspotify-releases/releases).  
 
 ## 📚 Everything else
 
